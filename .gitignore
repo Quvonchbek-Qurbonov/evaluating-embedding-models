@@ -1,2 +1,7 @@
 .idea
 .venv
+models/
+data/_hf_cache/
+results/
+__pycache__/
+*.pyc
